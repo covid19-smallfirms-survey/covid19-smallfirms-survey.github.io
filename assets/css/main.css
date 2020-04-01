@@ -83,6 +83,10 @@ input, select, textarea {
 		box-sizing: inherit;
 	}
 
+	hr.reg {
+		border-top: 1px solid black;
+	}
+
 	body {
 		background: #f7f7f7 url("images/bg01.png");
 	}
