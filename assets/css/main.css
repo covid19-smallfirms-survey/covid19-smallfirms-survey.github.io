@@ -2031,7 +2031,7 @@ input, select, textarea {
 		input[type="password"]:focus,
 		input[type="email"]:focus,
 		textarea:focus {
-			border-color: #37c0fb;
+			border-color: #204051;
 		}
 
 	input[type="text"],
